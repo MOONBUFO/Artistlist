@@ -6,4 +6,4 @@
 运行后则会跳转到比他作品数量更少一些的画师"https://danbooru.donmai.us/posts?tags=goma_(gomasamune)"   的页面)
 
 
-将Bookmarks.txt中的内容复制到新标签页中的网址中即可运行
+将Bookmarks.txt中的内容复制到新书签中的网址中,保存后点击即可运行
