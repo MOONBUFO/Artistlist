@@ -1,4 +1,6 @@
 在danbooru搜索画师的页面中跳转到作品数量小于他的另一个画师页面中
+
+
 (假如当前页面是https://danbooru.donmai.us/posts?tags=katahira_masashi,运行后则会跳转到比他作品数量更少一些的画师https://danbooru.donmai.us/posts?tags=goma_(gomasamune)的页面)
 
 
