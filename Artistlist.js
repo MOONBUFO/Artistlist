@@ -20,7 +20,7 @@ function loadCSVAndFindNextLine(id) {
         findNextLine(cachedData, id);
     } else {
         // 否则，从网络获取数据并缓存到本地存储
-        const url = 'https://raw.githubusercontent.com/your-username/your-repo/main/path/to/your/file.csv';
+        const url = 'https://raw.githubusercontent.com/MOONBUFO/Artistlist/main/Artistlist.csv';
 
         fetch(url)
             .then(response => {
