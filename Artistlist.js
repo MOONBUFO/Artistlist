@@ -49,7 +49,9 @@ function findNextLine(csvText, id) {
     // 查找包含指定 ID 的那一行
     let targetRow = null;
     for (let i = 0; i < rows.length; i++) {
-        if (rows[i].includes(id)) {
+        // 假设 CSV 行是用逗号分隔的
+        const columns = rows[i].split(',');
+        if (columns.includes(id)) {
             targetRow = i;
             break;
         }
